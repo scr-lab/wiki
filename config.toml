@@ -70,5 +70,5 @@ icon  = "🗂️"
 
 [[extra.categories]]
 slug  = "meeting"
-label = "議事録"
+label = "ミーティング"
 icon  = "📋"
