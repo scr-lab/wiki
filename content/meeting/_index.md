@@ -1,5 +1,5 @@
 +++
-title = "議事録"
+title = "ミーティング"
 description = "定例ミーティング・勉強会の議事録・メモ。"
 sort_by = "weight"
 weight = 5
