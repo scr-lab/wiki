@@ -19,3 +19,8 @@ __pycache__/
 .env
 key.txt
 .env
+
+# 部外秘情報間違ってpushしない用
+*.secret.*
+secret-*.md
+*.secret.md
