@@ -244,7 +244,7 @@ chcp 65001
 
 セットアップ用スクリプト（`.ps1` / `.sh`），`opencode.json` テンプレート，プロンプトサンプル集を以下のリポジトリで公開しています：
 
-> 🔗 [https://github.com/your-lab/local-ai-agent-setup](https://github.com/your-lab/local-ai-agent-setup)（← 実際のURLに変更してください）
+>  [https://github.com/your-lab/local-ai-agent-setup](https://github.com/ShingoYamabe/open-code-template)]
 
 リポジトリの内容：
 
